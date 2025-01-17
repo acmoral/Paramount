@@ -1,6 +1,6 @@
-baseurl: '/Paramount'
+baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Paramo Insights'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
