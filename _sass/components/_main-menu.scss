@@ -15,14 +15,17 @@
         display: inline-block;
         font-weight: normal;
         text-decoration: none;
-        color: $primary;
+        color: $secondary;
         &:hover {
-          text-decoration: underline;
+          background-color:rgba($secondary, 0.8);
+          color: $white;
         }
       }
       &.active {
         > a {
           font-weight: bold;
+          background-color:rgba($secondary, 0.8);;
+          color: $white;
           text-decoration: none;
           &:hover {
             text-decoration: none;

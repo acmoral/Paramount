@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Paramo insights
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: true
+description: Welcome to Paramo Insights, where physics meets cutting-edge technology to unlock the power of data. Founded by a team of seasoned physicists, we specialize in transforming complex datasets into actionable insights for businesses and organizations worldwide.
+intro_image: "images/illustrations/analysis-program-svgrepo-com.svg"
+intro_image_absolute: false
 intro_image_hide_on_mobile: true
-show_call_box: true
+show_call_box: false
 ---
 
-# Serif - A Jekyll Business Theme.
+# We know about data
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+  Harness the power of geolocated and satellite data to gain a deeper understanding of patterns, trends, and opportunities that are hidden in plain sight.  

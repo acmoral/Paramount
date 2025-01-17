@@ -242,12 +242,13 @@ sup { top: -.5em; }
 // Links
 
 a {
-  color: rgba(var(--#{$prefix}link-color-rgb), var(--#{$prefix}link-opacity, 1));
+  color: rgba($secondary, var(--#{$prefix}link-opacity, 1));
   text-decoration: $link-decoration;
 
   &:hover {
-    --#{$prefix}link-color-rgb: var(--#{$prefix}link-hover-color-rgb);
-    text-decoration: $link-hover-decoration;
+    background-color:rgba($secondary, 0.8);;
+    color: $white;
+    text-decoration: none;
   }
 }
 

@@ -103,7 +103,7 @@
   .nav-link {
     &.active,
     &.show {
-      color: var(--#{$prefix}navbar-active-color);
+      color: $nav-link-focus-box-shadow;
     }
   }
 

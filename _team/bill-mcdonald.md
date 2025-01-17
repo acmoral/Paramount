@@ -1,9 +1,9 @@
 ---
-title: "Bill McDonald"
+title: "Andrea Mora"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
-jobtitle: "Graphic Designer"
-linkedinurl: ""
+image: "images/team/andrea-mora-lopez.jpg"
+jobtitle: "AI Specialist"
+linkedinurl: "https://www.linkedin.com/in/andrea-mora-cloudy/"
 weight: 7
 ---
 
