@@ -1,11 +1,11 @@
 ---
-title: "Peter Van Eijk"
+title: "Andrea Mora"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/peter-van-eijk-711986-unsplash.jpg"
-jobtitle: "Director"
-linkedinurl: "https://www.linkedin.com/"
-promoted: true
+image: "images/team/andrea-mora-lopez.jpg"
+jobtitle: "AI Specialist"
+linkedinurl: "https://www.linkedin.com/in/andrea-mora-cloudy/"
 weight: 1
+promoted: True
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
